@@ -1,0 +1,95 @@
+{
+    "name": "Nandavardhan Radhakrishnan",
+    "address": "E205 VGN Southern Avenue Wilt Street, Potheri, Chennai, Tamil Nadu 603203",
+    "phone": "7540088772",
+    "email": "prkna2003@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nandavardhan-radhakrishnan-00b0b1225/",
+    "github": "https://github.com/nandavardhanRadhakrishnan/",
+    "education": {
+      "institution": "SRM Institute of Science and Technology",
+      "location": "Kattankulathur, Chennai, Tamil Nadu",
+      "degree": "B.Tech – Computer Science And Engineering with Specialization in Cloud Computing",
+      "cgpa": "9.21",
+      "years": "2021 – 2025"
+    },
+    "relevant_coursework": [
+      "Data Structures and Algorithms",
+      "Object Oriented Design and Programming",
+      "Computer Organisation and Architecture",
+      "Design and Analysis of Algorithms",
+      "Web Design and Development",
+      "Software Engineering and Project Management",
+      "Database Management Systems and Cloud Integration Services",
+      "Computer Communications"
+    ],
+    "experience": [
+      {
+        "company": "Samsung PRISM",
+        "role": "Intern",
+        "duration": "Aug 2023 – Feb 2024",
+        "location": "Remote",
+        "description": "An AI based OCR free Visual Information Understanding model for Android UI Screen Image"
+      },
+      {
+        "company": "HDLC Technologies",
+        "role": "Intern",
+        "duration": "May 2023 – Jun 2023",
+        "location": "Remote",
+        "description": "Android App development with mini projects"
+      },
+      {
+        "organization": "Think Digital (Student Club)",
+        "role": "Technical Domain Club Member",
+        "duration": "Dec 2022 – Present",
+        "location": "Chennai",
+        "description": "App Development Domain"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Messaging app",
+        "technologies": ["MongoDB", "Express", "Angular.JS", "Node.JS"],
+        "date": "April 2024",
+        "link": "https://github.com/NandavardhanRadhakrishnan/MessagingAppMEAN",
+        "description": "Developed a messaging platform with the MEAN stack. Implemented real-time messaging, user authentication, and a responsive UI. Created RESTful APIs with Express.js and Node.js, and used MongoDB for data storage. Utilized AngularJS for dynamic, single-page applications."
+      },
+      {
+        "name": "BingeIt",
+        "technologies": ["React", "TypeScript", "LLM", "API"],
+        "date": "June 2024",
+        "link": "https://github.com/NandavardhanRadhakrishnan/BingeIt",
+        "description": "Developed using React, BingeIt is an intelligent recommendation system for movies, books, and TV shows. Leveraging large language models (LLMs) and API integrations, the application analyzes user preferences to provide personalized recommendations."
+      },
+      {
+        "name": "Personnel Manager",
+        "technologies": ["C#", "CRUD", "Microsoft SQL Server"],
+        "date": "August 2022",
+        "description": "Designed and developed a robust Personnel Management System using C# in conjunction with Microsoft SQL Server. Created a comprehensive CRUD application for efficient tracking and management of personnel records."
+      },
+      {
+        "name": "Bone Age Prediction Model",
+        "technologies": ["ML", "Tensorflow", "Keras"],
+        "date": "January 2024",
+        "link": "https://github.com/NandavardhanRadhakrishnan/BoneAge",
+        "description": "Wrote a paper comparing 3 different models for estimation of Bone age in months taken from Xray of infants. Paper submitted to IEEE, under review."
+      }
+    ],
+    "technical_skills": {
+      "languages": ["Python", "C", "C++", "C#", "Java", "Java Servlet", "JSP"],
+      "frameworks": ["SpringBoot", "Angular.JS", "Express", "Node.JS", "React"],
+      "web_technologies": ["HTML", "CSS", "JavaScript", "TypeScript"],
+      "tools": ["Docker", "Kubernetes", ".NET", "Flutter", "SQL", "MongoDB", "Firebase", "GitHub", "Git"],
+      "ml_dl": ["Tensorflow", "Keras", "Machine Learning", "Deep Learning", "Computer Vision", "CUDA", "Algorithms", "API", "Pandas"]
+    },
+    "soft_skills": ["Analytical", "Data Driven", "Leadership", "Project Management"],
+    "certifications": [
+      "Supervised Machine Learning: Regression and Classification - Coursera",
+      "Introduction to Big Data - Coursera",
+      "MATLAB Onramp - MathWorks",
+      "AWS Academy Cloud Architecting - AWS Academy Graduate",
+      "AWS Academy Cloud Foundations - AWS Academy Graduate",
+      "AWS Academy Machine Learning Foundations - AWS Academy Graduate",
+      "Introduction to Packet Tracer - Cisco"
+    ]
+  }
+  
